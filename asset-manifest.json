@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drawingboard/static/css/main.0928dc50.chunk.css",
+    "main.js": "/drawingboard/static/js/main.4e312798.chunk.js",
+    "main.js.map": "/drawingboard/static/js/main.4e312798.chunk.js.map",
+    "runtime-main.js": "/drawingboard/static/js/runtime-main.de820e33.js",
+    "runtime-main.js.map": "/drawingboard/static/js/runtime-main.de820e33.js.map",
+    "static/js/2.8c2df445.chunk.js": "/drawingboard/static/js/2.8c2df445.chunk.js",
+    "static/js/2.8c2df445.chunk.js.map": "/drawingboard/static/js/2.8c2df445.chunk.js.map",
+    "index.html": "/drawingboard/index.html",
+    "precache-manifest.ff88c8266d8a5817de6ace1bb31e0c81.js": "/drawingboard/precache-manifest.ff88c8266d8a5817de6ace1bb31e0c81.js",
+    "service-worker.js": "/drawingboard/service-worker.js",
+    "static/css/main.0928dc50.chunk.css.map": "/drawingboard/static/css/main.0928dc50.chunk.css.map",
+    "static/js/2.8c2df445.chunk.js.LICENSE.txt": "/drawingboard/static/js/2.8c2df445.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de820e33.js",
+    "static/js/2.8c2df445.chunk.js",
+    "static/css/main.0928dc50.chunk.css",
+    "static/js/main.4e312798.chunk.js"
+  ]
+}
